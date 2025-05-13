@@ -14,8 +14,7 @@ Dự án này là một ứng dụng backend Node.js kết nối đến cơ sở
 1. Clone repository về máy:
 
    ```bash
-   git clone <URL_REPO>
-   cd <THU_MUC_DU_AN>
+   git clone https://github.com/Bunhiacopxki/GeekUP
    ```
 2. Cài đặt các package cần thiết:
 
@@ -34,7 +33,7 @@ Dự án này là một ứng dụng backend Node.js kết nối đến cơ sở
 
 ## Cấu hình kết nối (Configuration)
 
-* Mở file `.envs`  và sửa các thông tin phù hợp với bạn
+* Mở file `.env`  và sửa các thông tin phù hợp với bạn
 
 ## Chạy ứng dụng (Run the Application)
 
